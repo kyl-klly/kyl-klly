@@ -1,4 +1,14 @@
-## Hi there 👋
+## welcome to my page 👋
+
+🏝 There doesn't seem to be much here
+
+- 📚 PhD student @ UNL
+- 🧮 Math Researcher
+- 🎼 Musician 
+- ✏ Crossword constructor
+- 👾 Programming novice
+
+🏗 This is a work in progress (much like all of us)
 
 <!--
 **kyl-klly/kyl-klly** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
