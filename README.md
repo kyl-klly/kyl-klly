@@ -1,4 +1,4 @@
-## welcome to my page 👋
+## Welcome to my page👋
 
 🏝 There doesn't seem to be much here
 
