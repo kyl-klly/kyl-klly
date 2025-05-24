@@ -3,7 +3,7 @@
 🏝 There doesn't seem to be much here
 
 - 📚 PhD student @ UNL
-- 🧮 Math Researcher
+- 🧮 Math researcher
 - 🎼 Musician 
 - ✏ Crossword constructor
 - 👾 Programming novice
